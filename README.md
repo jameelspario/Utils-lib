@@ -15,6 +15,6 @@ allprojects {
   
  ```gradle
  dependencies {
-	        implementation 'com.github.jameelspario:Utils-lib:Tag'
+	        implementation 'com.github.jameelspario:Utils-lib:1.0.0'
 	}
   ```
